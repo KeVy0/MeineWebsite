@@ -1,2 +1,2 @@
 # MeineWebsite
-HTML + CSS + Hintergrund Bild. Fun Projekt.
+Andere Version meiner Website. 
